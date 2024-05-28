@@ -14,5 +14,8 @@ sender_wallet - EVM wallet from initialList.txt, aptos_wallet - its Aptos funds 
 - Step 3: See that Aptos address sent at least 5 messages
 - Step 4: Format data, and extract the final_sybil_list.txt
 
+Link to CommonWealth report:
+https://commonwealth.im/layerzero/discussion/20048-6k-aptos-large-report
+
 Reward Address:
 0x4D045AC57CE2B85438740CDFfCa65b60fdae7128
