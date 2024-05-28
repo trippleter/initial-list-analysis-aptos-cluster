@@ -1,6 +1,8 @@
 **final_sybil_data.csv** file contains the justification on why each EVM wallet is mapped with a certain Aptos wallet. You can check by going to the explorer of the NETWORK, pasting TX_HASH and decoding input data 
 
-(format is SENDER_WALLET,APTOS_WALLET,TX_HASH,NETWORK,NONCE, sender_wallet - EVM wallet from initialList.txt, aptos_wallet - its Aptos funds receiver, tx_hash - source_tx_hash that confirms the association of Aptos to EVM wallet, network - network of source tx_hash, nonce - number of LayerZero messages sent by an Aptos address)
+(format is SENDER_WALLET,APTOS_WALLET,TX_HASH,NETWORK,NONCE)
+
+sender_wallet - EVM wallet from initialList.txt, aptos_wallet - its Aptos funds receiver, tx_hash - source_tx_hash that confirms the association of Aptos to EVM wallet, network - network of source tx_hash, nonce - number of LayerZero messages sent by an Aptos address
 
 **final_sybil_list.txt** file contains all the Aptos sybils found
 
